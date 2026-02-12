@@ -49,6 +49,6 @@
 
 <p align="center">
   <a href="https://161.ftl1.seedit4.me/filebrowser/api/public/dl/VRPDQfVw">
-    <img src="https://i.imgur.com/JZopQA1.jpeg" alt="Download"/>
+    <img src="https://i.imgur.com/UHbFaM8.jpeg" alt="Download"/>
   </a>
 </p>
