@@ -42,8 +42,9 @@
 <p>Create, experiment, adapt! There will always be a new way or two to break this game.</p>
 <h4 class="text-center"><div align="center">
   <img src="https://i.imgur.com/Xl3Hc7Y.gif" alt="Gameplay" width="600"></div></h4>
+  <p align="center">
 <h4 class="text-center">Oh, and one more thing: you can pet all the cats in the game</h4>
-
+</p>
 
 
 
